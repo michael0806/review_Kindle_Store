@@ -1,4 +1,4 @@
-# review_Kindle_Store
+# Predicting Amazon Kindle Product Ratings Based on Review Text
 The project aims to Predict the overall rating of Amazon Kindle products based on the textual content of the reviews.
 
 Documentation for Amazon Kindle Reviews Analysis
